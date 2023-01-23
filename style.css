@@ -140,3 +140,28 @@ body * {
         width: 90%;
     }
 }
+
+.recovery-btn{
+    color:#A866D4
+}
+
+a:link {
+    color: #8A2BE2;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: #8A2BE2;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(255, 0, 234);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: rgb(255, 94, 234);
+    background-color: transparent;
+    text-decoration: underline;
+  }
