@@ -87,6 +87,9 @@ body * {
 .textField > label {
     color: #f0ffffde;
     margin-bottom: 19px;
+    display: flex;
+    flex-direction: column;
+    align-self: stretch;
 }
 
 .textField > input::placeholder{
@@ -94,6 +97,7 @@ body * {
 }
 
 .btn-login{
+    align-self: center;
     width: 100%;
     padding: 16px 0;
     margin: 25px;
